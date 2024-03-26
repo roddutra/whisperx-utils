@@ -1,0 +1,5 @@
+/source_files/**
+/outputs/**
+!.gitkeep
+.env
+.DS_Store
